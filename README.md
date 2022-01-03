@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/56a728a6-b4dd-4b2a-80e4-20a5ff220fb0.svg)](https://wakatime.com/@56a728a6-b4dd-4b2a-80e4-20a5ff220fb0)
+
 - 👋 Hi, I’m Tommi Alajoki (@Lyrete)
 - 🏫 Studying Built Environment at Aalto University and IT at University of Turku
 
