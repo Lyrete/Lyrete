@@ -3,8 +3,8 @@
 - 👋 Hi, I’m Tommi Alajoki (@Lyrete)
 - 🏫 Studying Built Environment at Aalto University and IT at University of Turku
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyrete&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Lyrete's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lyrete&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyrete&layout=compact&theme=dark&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![Lyrete's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lyrete&theme=dark&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Lyrete/Lyrete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
